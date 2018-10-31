@@ -1,7 +1,7 @@
 # Git
 
 ## About
-Useful git related things
+Boilerplate .gitignore files
 
 ## Contact
 larromba@gmail.com
