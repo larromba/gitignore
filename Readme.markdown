@@ -1,7 +1,4 @@
-# Git
+# .gitignore
 
 ## About
-Boilerplate .gitignore files
-
-## Contact
-larromba@gmail.com
+Boilerplate files.
